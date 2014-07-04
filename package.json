@@ -1,0 +1,22 @@
+{
+  "name": "historical-world-atlas",
+  "version": "0.0.0",
+  "description": "Historical world TopoJSON from 2000 BC until today",
+  "keywords": [
+    "topojson",
+    "geojson",
+    "shapefile"
+  ],
+  "author": {
+    "name": "Jeremy Stucki",
+    "url": "http://interactivethings.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/interactivethings/historical-world-atlas.git"
+  },
+  "dependencies": {
+    "topojson": ">=1.6.6 <2"
+  },
+  "license": "BSD"
+}
